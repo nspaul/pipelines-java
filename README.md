@@ -1,4 +1,4 @@
-https://github.com/settings/connections/applications/e37ffdec11c0245cb2e0
+[![Build Status](https://dev.azure.com/paul0157/Pipelines%20Tutorial/_apis/build/status/nspaul.pipelines-java?branchName=master)](https://dev.azure.com/paul0157/Pipelines%20Tutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
